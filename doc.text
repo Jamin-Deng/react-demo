@@ -1,0 +1,4 @@
+本demo用官方脚手架create-react-app创建，引入antd,引入http-proxy-middleware，
+添加src/setupProxy.js设置本地跨域
+antd：按需加载需看官网教程https://ant.design/docs/react/use-with-create-react-app-cn
+配置了react-router-dom路由器
